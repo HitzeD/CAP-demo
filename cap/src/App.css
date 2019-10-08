@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  
 }
 
 .App-logo {
@@ -19,4 +20,12 @@
 
 .App-link {
   color: #09d3ac;
+}
+
+.cis-main {
+  margin-top: 5%;
+}
+
+.sisters {
+  margin-top: 10%;
 }
